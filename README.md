@@ -20,7 +20,7 @@
 - :office: &nbsp;I'm currently working at **[Nouveta]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Anything Tech** and **Philosophy**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -140,6 +140,6 @@
 
 <!-- links -->
 
-[nouveta]: https://github.com/NouvetaLimited "Nouveta Github Home"
-[issues page]: https://github.com/pmutua/pmutua/issues "pmutua/issues"
-[linkedin]: https://www.linkedin.com/in/pmutua "Philip Mutua LinkedIn"
+[Nouveta]: https://github.com/NouvetaLimited "Nouveta Github Home"
+[Issues_Page]: https://github.com/pmutua/pmutua/issues "pmutua/issues"
+[Linkedin]: https://www.linkedin.com/in/pmutua "Philip Mutua LinkedIn"
