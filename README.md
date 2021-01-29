@@ -134,7 +134,7 @@
 <!-- prettier-ignore-start -->
 <!-- START_SECTION Chart-->
 
-<figure><embed src="https://wakatime.com/share/@a88fa195-aad0-4bcf-aa1e-14f8765a804d/743fbd99-7c5b-45ec-be3f-eb2fd101ee0f.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@a88fa195-aad0-4bcf-aa1e-14f8765a804d/743fbd99-7c5b-45ec-be3f-eb2fd101ee0f.svg"></img></figure>
 
 <!-- END_SECTION: Chart-->
 
