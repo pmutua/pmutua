@@ -19,7 +19,7 @@
 
 - :office: &nbsp;I'm currently working at **[Nouveta]**
 - :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Anything Tech** and **Philosophy**
+- :speech_balloon: &nbsp;I like to talk about **Anything Tech** and **life**
 - :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
