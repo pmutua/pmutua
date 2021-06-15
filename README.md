@@ -48,12 +48,12 @@
       </a>
       <br>Angular
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#philipmutua-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#philipmutua-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
