@@ -17,11 +17,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pmutua&show_icons=true&count_private=true&include_all_commits=true" alt="philipmutua" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Nouveta]**
 - :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Anything Tech** and **life**
+- :speech_balloon: &nbsp;I like to talk about **Python** & **Django**
 - :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 
 <br>
 
