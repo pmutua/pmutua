@@ -121,9 +121,9 @@
   </tr> -->
 </table>
 
-<h2 align="left">Languages</h2>
+<!-- <h2 align="left">Languages</h2>
 
-> I mostly use the following languages everyday [(Learn how this works)](https://wakatime.com)
+> I mostly use the following languages everyday [(Learn how this works)](https://wakatime.com) -->
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION Chart-->
