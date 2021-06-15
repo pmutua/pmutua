@@ -66,7 +66,7 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#philipmutua-tech" >
         <img src="./img/Nginx_logo.svg.png" width="48" height="48" alt="NGINX" />
       </a>
@@ -83,7 +83,7 @@
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
+    </td> -->
   </tr>
 <!--   <tr>
     <td align="center" width="96"> 
