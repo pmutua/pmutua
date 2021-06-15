@@ -48,12 +48,7 @@
       </a>
       <br>Angular
     </td>
-<!--     <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td> -->
+
     <td align="center" width="96">
       <a href="#philipmutua-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -66,73 +61,12 @@
       </a>
       <br>JavaScript
     </td>
-<!--     <td align="center" width="96">
-      <a href="#philipmutua-tech" >
-        <img src="./img/Nginx_logo.svg.png" width="48" height="48" alt="NGINX" />
-      </a>
-      <br>NGINX
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td> -->
+
   </tr>
-<!--   <tr>
-    <td align="center" width="96"> 
-      <a href="#philipmutua-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
 
-    <td align="center"  width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-
-  </tr> -->
 </table>
 
-<!-- <h2 align="left">Languages</h2>
 
-> I mostly use the following languages everyday [(Learn how this works)](https://wakatime.com) -->
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION Chart-->
-<!-- 
-<figure><img src="https://wakatime.com/share/@a88fa195-aad0-4bcf-aa1e-14f8765a804d/743fbd99-7c5b-45ec-be3f-eb2fd101ee0f.svg"></img></figure> -->
-
-<!-- END_SECTION: Chart-->
-
-<!-- links -->
 
 [Nouveta]: https://github.com/NouvetaLimited "Nouveta Github Home"
 [Issues_Page]: https://github.com/pmutua/pmutua/issues "pmutua/issues"
