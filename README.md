@@ -40,7 +40,7 @@
       <a href="#philipmutua-tech">
         <img src="./img/django-logo-negative.png" width="48" height="48" alt="Django" />
       </a>
-      <br>Django
+      <br>Django(Core)
     </td>
     <td align="center" width="96">
       <a href="#philipmutua-tech">
