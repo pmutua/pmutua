@@ -22,52 +22,6 @@
 - :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
 
 
-<br>
-
-<h2 align="left" id="philipmutua-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/django-logo-negative.png" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django (Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#philipmutua-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-
-  </tr>
-
-</table>
-
-
-
 [Nouveta]: https://github.com/NouvetaLimited "Nouveta Github Home"
 [Issues_Page]: https://github.com/pmutua/pmutua/issues "pmutua/issues"
 [Linkedin]: https://www.linkedin.com/in/pmutua "Philip Mutua LinkedIn"
