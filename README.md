@@ -85,7 +85,7 @@
       <br>Sass
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="96"> 
       <a href="#philipmutua-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -118,7 +118,7 @@
       <br>MySQL
     </td>
 
-  </tr>
+  </tr> -->
 </table>
 
 <h2 align="left">Languages</h2>
