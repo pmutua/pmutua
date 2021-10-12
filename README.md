@@ -8,7 +8,16 @@
   <a href="https://github.com/pmutua?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pmutua?color=green&logo=github">
   </a>
+    <a href="https://dev.to/pmutua">
+    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+    </a>
+    <a href="https://github.com/pmutua/pmutua/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
+    <img alt="Ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+  </a>
 </p>
+
+
 
 
 <h1 align="left" id="philipmutua-title">:wave: Hello there! I'm Philip,</h1>
