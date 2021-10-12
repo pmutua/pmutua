@@ -1,6 +1,3 @@
-<h1 align="left" id="philipmutua-title">:wave: Hello there! I'm Philip,</h1>
-<h3 align="left">I work on web applications and web infrastructure</h3>
-
 <p align="left">
   <a href="https://stackoverflow.com/users/8342189">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8342189?color=orange&label=reputation&logo=stackoverflow">
@@ -12,6 +9,22 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pmutua?color=green&logo=github">
   </a>
 </p>
+
+
+<h1 align="left" id="philipmutua-title">:wave: Hello there! I'm Philip,</h1>
+<h3 align="left">I work on web applications and web infrastructure</h3>
+
+<a href="#philipmutua-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmutua&show_icons=true&count_private=true&include_all_commits=true" alt="philipmutua" align="right" />
+</a>
+
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Python** & **Django**
+- :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
+
+
+
+
 
 
 ### Languages
@@ -38,13 +51,19 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-<a href="#philipmutua-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmutua&show_icons=true&count_private=true&include_all_commits=true" alt="philipmutua" align="right" />
-</a>
+### Full Stack Projects
 
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Python** & **Django**
-- :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+
+
+
+
 
 
 [Nouveta]: https://github.com/NouvetaLimited "Nouveta Github Home"
