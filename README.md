@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://stackoverflow.com/users/8342189/philip-mutua">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/badge/Stack%20Overflow-8342189-F47F24">
+    <img alt="Stack Exchange reputation" src="https://stackoverflow-badge.vercel.app/?userID=8342189">
   </a>
   <a href="https://reddit.com/u/pmutua">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/pmutua?label=karma&logo=reddit">
