@@ -39,7 +39,7 @@ I make server and client side applications
 - 😄 I build custom fullstack applications.
 - 👯 I’m looking to collaborate on ... Python, JavaScript, TypeScript, Django, Angular
 - 💬 Ask me about ... fullstack web development on my **[Issues_Page]**
-- 📫 How to reach me: ...[via my Website](https://pmutua.github.io)
+- 📫 How to reach me: ...[via my Website](https://philipmutua.pages.dev/)
 - :mailbox: &nbsp;Ask me anything on my **[Issues_Page]**
 
 ### Tech Stack
