@@ -51,7 +51,7 @@ I make server and client side applications
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Rails](https://img.shields.io/badge/-Rails-000?&logo=Rails)
+![Rails](https://img.shields.io/badge/-RubyonRails-000?&logo=RubyonRails)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MYSQL)
