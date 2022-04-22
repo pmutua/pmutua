@@ -21,7 +21,7 @@
 
 ## 🔭 I’m currently working on
 
-I make server and client side applications 
+web applications 
 <!-- + sometimes make web dev videos. -->
 
 <!-- Check them out on [my videos page](#) or visit my [YouTube Channel](#) -->
@@ -34,7 +34,7 @@ I make server and client side applications
 
 - ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go) -->
 
-<!-- ## Other cool things -->
+## Other
 
 <!-- - 😄 I build custom fullstack applications. -->
 - 👯 I’m looking to collaborate on ... tell me about your current project we collaborate or find which repo interests you on my profile
