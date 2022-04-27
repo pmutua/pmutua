@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/pmutua"
+                feed_list: "https://dev.to/feed/pmutua,https://medium.com/feed/@itsphilipmutua"
