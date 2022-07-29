@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the difference between Promises and Observables?](https://dev.to/pmutua/what-is-the-difference-between-promises-and-observables-323m)
 - [I&#39;ve completely replaced the need for Postman with this one extension in VS Code!](https://dev.to/pmutua/i-ve-completely-replaced-the-need-for-postman-with-this-one-extension-in-vs-code-1oa9)
 - [Aligning content in columns &amp; adding custom width with Angular](https://dev.to/pmutua/align-left-and-right-in-mat-card-title-588g)
 - [Run MySQL on Port 3307 Using Docker Compose](https://dev.to/pmutua/run-mysql-on-port-3307-using-docker-compose-gf8)
 - [Working with Multiple Containers Using Docker Compose on Linux with Django and NGINX](https://dev.to/pmutua/working-with-multiple-containers-using-docker-compose-on-linux-2299)
-- [Pushing a Docker container image to Docker Hub🔗](https://dev.to/pmutua/pushing-a-docker-container-image-to-docker-hub-m3p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
