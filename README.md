@@ -71,13 +71,6 @@ This is the place where I opensource stuff and break things :rofl:
 - [Run MySQL on Port 3307 Using Docker Compose](https://dev.to/pmutua/run-mysql-on-port-3307-using-docker-compose-gf8)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pmutua" height="30" width="40" /></a>
-<a href="https://twitter.com/itsphilipmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsphilipmutua" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmutua" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8342189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8342189" height="30" width="40" /></a>
-</p>
 
 📊 &nbsp;**This week I spent my time on**
 
@@ -115,34 +108,111 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pmutua/conduit"><b>Conduit</b></a></td>
+      <td><a href="https://github.com/pmutua/conduit"><b>conduit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	      <tr>
+      <td><a href="https://github.com/pmutua/conduit"><b>elite-schedule
+</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	      <tr>
+      <td><a href="https://github.com/pmutua/quandlstocks
+"><b>quandlstocks
+</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	      <tr>
+      <td><a href="https://github.com/pmutua/botserver"><b>botserver</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	      <tr>
+      <td><a href="https://github.com/pmutua/imgclassifier
+"><b>Image Classifier
+</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	  	      <tr>
+      <td><a href="https://github.com/pmutua/drf_csv_xlsx_file_upload
+"><b>drf_csv_xlsx_file_upload
+</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	      <tr>
+      <td><a href="https://github.com/pmutua/weather-api"><b>weather-api</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	  	      <tr>
+      <td><a href="https://github.com/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework"><b>Build-a-Banking-System-API-with-DJANGO-Rest-Framework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
 
-<details><summary>🛠️ Language & Tools</summary><br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3>Tutorial projects</h3>
 
-<hr>
-</details>
+<p>Here are some of the tutorials I made available for anyone who is interested in learning.</p>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	  	  	      <tr>
+      <td><a href="https://github.com/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework"><b>Build-a-Banking-System-API-with-DJANGO-Rest-Framework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pmutua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pmutua" /></a></p><br><br> -->
 
-<details><summary>📈 Metrics</summary><br/>
+### 📈 Overall Github Stats
 
    ![Metrics](https://metrics.lecoq.io/pmutua?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FNairobi)
-  
+
 <hr>
-</details>
 
-
-
+### 🔗 Where to find me
+<p align="left">
+<a href="https://dev.to/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pmutua" height="30" width="40" /></a>
+<a href="https://twitter.com/itsphilipmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsphilipmutua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmutua" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8342189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8342189" height="30" width="40" /></a>
+</p>
