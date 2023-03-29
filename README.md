@@ -82,6 +82,9 @@ This is the place where I opensource stuff and break things :rofl:
 I am a Full Stack Engineer with 5+ years of experience in developing enterprise applications and open-source software.
 
 <h3>Open source projects</h3>
+
+<p>
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -166,6 +169,15 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
   </tbody>
 </table>
 
+<blockquote>
+<p>Attention all coders and developers! Are you looking for a way to showcase your skills and collaborate with like-minded individuals? Then look no further than my repositories!</p>
+</blockquote>
+<blockquote>
+<p>I invite you to take a look at the projects I have created and contributed to, and consider lending your own expertise to help bring them to the next level. Whether you're a seasoned veteran or just starting out, there is always room for new ideas and perspectives in the world of coding.</p>
+</blockquote>
+<blockquote>
+<p>So don't hesitate - join me in building a thriving community of passionate coders by checking out my repos and contributing your own code, feedback, and ideas. Together, we can create something truly amazing!</p>
+</blockquote>
 
 <h3>Tutorial projects</h3>
 
