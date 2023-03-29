@@ -163,13 +163,6 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  	  	      <tr>
-      <td><a href="https://github.com/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework"><b>Build-a-Banking-System-API-with-DJANGO-Rest-Framework</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 
