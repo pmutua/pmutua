@@ -94,14 +94,14 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pmutua/sms-service"><b>SMS Service</b></a></td>
+      <td><a href="https://github.com/pmutua/sms-service"><b>SMS service</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/pmutua/restaurant-voting"><b>Menu Voting API</b></a></td>
+      <td><a href="https://github.com/pmutua/restaurant-voting"><b>menu voting API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
@@ -115,7 +115,7 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	      <tr>
-      <td><a href="https://github.com/pmutua/conduit"><b>elite-schedule
+      <td><a href="https://github.com/pmutua/conduit"><b>elite schedule
 </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
