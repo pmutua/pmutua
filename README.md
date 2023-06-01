@@ -80,6 +80,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 I am a Full Stack Engineer with 5+ years of experience in developing enterprise applications and open-source software.
 
+💡 With a proven track record of delivering software solutions, I am committed to meeting the unique needs of clients and end-users. I invite you to explore my website to gain a deeper understanding of my work and the value I can bring to your projects.
+
+🌟 Let's collaborate on building innovative software solutions that drive success and exceed expectations. Connect with me today to discuss your project requirements and explore the possibilities.
+
 <h3>Open source projects</h3>
 
 <p>
