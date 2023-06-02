@@ -48,11 +48,15 @@ This is the place where I opensource stuff, break & make things :rofl:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fdc828?style=flat-square&logo=firebase&logoColor=white" />
 
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-1a62a4?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/-Redis-FF0000?style=flat-square&logo=redis&logoColor=green" />
   <img alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-1a62a4?style=flat-square&logo=mysql&logoColor=white" />
-
+  <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FFA500?style=flat-square&logo=rabbitmq&logoColor=white" />
   
+ <img alt="celery" src="https://img.shields.io/badge/-Celery-FFFFFF?style=flat-square&logo=celery&logoColor=green" />
+  <img alt="nginx" src="https://img.shields.io/badge/-NGINX-FFFFFF?style=flat-square&logo=nginx&logoColor=green" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-043B8E?style=flat-square&logo=jira&logoColor=white" />
   <img alt="notion" src="https://img.shields.io/badge/-notion-eeeeee?style=flat-square&logo=notion&logoColor=black" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
