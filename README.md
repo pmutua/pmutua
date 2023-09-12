@@ -82,7 +82,7 @@ This is the place where I opensource stuff, break & make things :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Engineer with 5+ years of experience in developing enterprise applications and open-source software.
+I am a Software Engineer with over 5+ years of experience in developing enterprise applications end to end.
 
 💡 With a proven track record of delivering software solutions, I am committed to meeting the unique needs of clients and end-users. I invite you to explore my website to gain a deeper understanding of my work and the value I can bring to your projects.
 
@@ -142,11 +142,25 @@ I am a Full Stack Engineer with 5+ years of experience in developing enterprise 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	      <tr>
-      <td><a href="https://github.com/pmutua/botserver"><b>botserver</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/botserver?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/BwanaQ/picha-flani-backend"><b>Picha Flani</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	      <tr>
+      <td><a href="https://github.com/pmutua/document-management-api"><b>Picha Flani</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  	  	      <tr>
+      <td><a href="https://github.com/pmutua/boo"><b>Picha Flani</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  	      <tr>
       <td><a href="https://github.com/pmutua/imgclassifier
