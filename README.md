@@ -14,10 +14,10 @@
 
 This is the place where I opensource stuff, break & make things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning: AWS Cloud Practitioner Course 
+- 🔭 &nbsp;I’m currently working on APIs,LLMs,frontends :wink:
+- 🌱 &nbsp;I’m currently learning: Things to do with LLMs
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/Django
-- 👨‍💻 &nbsp;Read more about my projects at [https://linktr.ee/philipmutua](https://linktr.ee/philipmutua)
+- 👨‍💻 &nbsp;Read more about my projects at [https://philipmutua.me](https://philipmutua.me)
 - 📫 How to reach me **philipmutua@duck.com**
 <!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: []()) -->
 
