@@ -222,18 +222,6 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
   </tbody>
 </table>
 
-### 📣
-<blockquote>
-<p>Attention all coders and developers! Are you looking for a way to showcase your skills and collaborate with like-minded individuals? Then look no further than my repositories!</p>
-</blockquote>
-<blockquote>
-<p>I invite you to take a look at the projects I have created and contributed to, and consider lending your own expertise to help bring them to the next level. Whether you're a seasoned veteran or just starting out, there is always room for new ideas and perspectives in the world of coding.</p>
-</blockquote>
-<blockquote>
-<p>So don't hesitate - join me in building a thriving community of passionate coders by checking out my repos and contributing your own code, feedback, and ideas. Together, we can create something truly amazing!</p>
-</blockquote>
-
-
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pmutua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pmutua" /></a></p><br><br> -->
 
