@@ -149,14 +149,14 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  	      <tr>
-      <td><a href="https://github.com/pmutua/document-management-api"><b>Picha Flani</b></a></td>
+      <td><a href="https://github.com/pmutua/document-management-api"><b>Document Management API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  	  	      <tr>
-      <td><a href="https://github.com/pmutua/boo"><b>Picha Flani</b></a></td>
+      <td><a href="https://github.com/pmutua/boo"><b>Boo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
