@@ -7,19 +7,11 @@
   </a>
 </p>
 
+### ✨&nbsp; About Me
 
-
-
-### Hi there <a href="https://www.philipmutua.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-This is the place where I opensource stuff, break & make things :rofl:
-
-- 🔭 &nbsp;I’m currently working on APIs,LLMs,frontends :wink:
-- 🌱 &nbsp;I’m currently learning: Things to do with LLMs
-- 💬 &nbsp;Ask me about anything related to Python/Typescript/Javascript or Angular/Django
-- 👨‍💻 &nbsp;Read more about my projects at [https://philipmutua.me](https://philipmutua.me)
-- 📫 How to reach me **pmutua@live.com**
-<!-- - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: []()) -->
+- 6+ years as a Fullstack Software Engineer, blending tech expertise with entrepreneurship, delivering innovation, and leading projects in dynamic software engineering. [Follow on Twitter](https://twitter.com/itsphilipmutua)&nbsp;
+- I make some [YouTubes](https://www.youtube.com/@somacode_?subscribe_submission=1)
+<br>
 
 👨🏾‍💻 **Things I've been coding with**
 <p>
@@ -64,30 +56,19 @@ This is the place where I opensource stuff, break & make things :rofl:
   <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
+<br>
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to target desktop, tablet and mobile using Media Query ?](https://dev.to/pmutua/how-to-target-desktop-tablet-and-mobile-using-media-query--15n7)
-- [What is the difference between Promises and Observables?](https://dev.to/pmutua/what-is-the-difference-between-promises-and-observables-323m)
-- [I&#39;ve completely replaced the need for Postman with this one extension in VS Code!](https://dev.to/pmutua/i-ve-completely-replaced-the-need-for-postman-with-this-one-extension-in-vs-code-1oa9)
-- [Aligning content in columns &amp; adding custom width with Angular](https://dev.to/pmutua/align-left-and-right-in-mat-card-title-588g)
-- [Run MySQL on Port 3307 Using Docker Compose](https://dev.to/pmutua/run-mysql-on-port-3307-using-docker-compose-gf8)
-<!-- BLOG-POST-LIST:END -->
+### Products
 
+- [🧠 AlgoAtlas](http://algo-atlas-web.onrender.com/), a web app for daily coding interview challenges to enhance your tech skills
 
-📊 &nbsp;**This week I spent my time on**
+<br>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pmutua&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-
-### ✨&nbsp; About Me
-
-I am a Software Engineer with over 5+ years of experience in developing enterprise applications end to end.
-
-💡 With a proven track record of delivering software solutions, I am committed to meeting the unique needs of clients and end-users. I invite you to explore my website to gain a deeper understanding of my work and the value I can bring to your projects.
-
-🌟 Let's collaborate on building innovative software solutions that drive success and exceed expectations. Connect with me today to discuss your project requirements and explore the possibilities.
-
+### Working on
+	
+- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation.
+<br>
+<br>
 <h3>Open source projects</h3>
 
 <p>
@@ -148,13 +129,6 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
       <td><img alt="Issues" src="https://img.shields.io/github/issues/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  	      <tr>
-      <td><a href="https://github.com/pmutua/document-management-api"><b>Document Management API</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/document-management-api?style=flat-square&labelColor=343b41"/></td>
-    </tr>
 	  	  	      <tr>
       <td><a href="https://github.com/pmutua/boo"><b>Boo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
@@ -204,6 +178,8 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
   </tbody>
 </table>
 
+<br>
+
 <h3>Tutorial projects</h3>
 
 <p>Here are some of the tutorials I made available for anyone who is interested in learning.</p>
@@ -229,8 +205,7 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
   </tbody>
 </table>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pmutua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pmutua" /></a></p><br><br> -->
+<br>
 
 ### 📈 Overall GitHub Stats
 
@@ -238,10 +213,12 @@ I am a Software Engineer with over 5+ years of experience in developing enterpri
 
 <hr>
 
+<br>
+
 ### 🔗 Connect with me
-<p align="left">
-<a href="https://dev.to/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pmutua" height="30" width="40" /></a>
-<a href="https://twitter.com/itsphilipmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="itsphilipmutua" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmutua" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8342189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8342189" height="30" width="40" /></a>
-</p>
+
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:pmutua@live.com).
+
+<br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pmutua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pmutua" /></a></p><br><br>
