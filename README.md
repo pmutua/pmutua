@@ -48,7 +48,7 @@ Hi, I'm Phil — a **software engineer** building some real stuff through code. 
 
 ## I use.. 💻
 
-Angular . Django . Django Rest Framework . FastAPI .
+Angular . Django . Django Rest Framework . FastAPI . Node.js
 
 Python . TypeScript . JavaScript . 
 
