@@ -100,7 +100,7 @@ Python . TypeScript . JavaScript .
 
 - [🧠 AlgoAtlas](http://algoatlas.pro), a web app for daily coding interview challenges to enhance your tech skills
 
-- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation. ⚠️ **Warning:** Backend functionality to Auto generate content using OpenAI not working. OpenAI credits depleted.
+- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation. ⚠️ **Warning:** Backend functionality to Auto generate content using OpenAI will not work. OpenAI credits depleted.
 
 <!-- section - blogs
 
