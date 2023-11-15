@@ -11,15 +11,14 @@
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/itsphilipmutua
+[1]: https://www.linkedin.com/in/pmutua
 [2]: https://www.github.com/pmutua
 [3]: https://www.twitter.com/itsphilipmutua
 [4]: http://www.medium.com/@philip.mutua
-[5]: https://stackoverflow.com/users/8454203/philip-mutua
+[5]: https://stackoverflow.com/users/8342189/philip-mutua
 [6]: http://dev.to/pmutua
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=pmutua&label=Profile%20views&color=0e75b6&style=flat" alt="pmutua" />
   <a href="https://stackoverflow.com/users/8342189/philip-mutua">
     <img alt="Stack Exchange reputation" src="https://stackoverflow-badge.vercel.app/?userID=8342189">
   </a>
@@ -37,7 +36,7 @@ Hi, I'm Phil — a **software engineer** building some real stuff through code. 
 [![linkedin pmutua][1.1]][1]
 [![github pmutua][2.1]][2]
 [![twitter itsphilipmutua][3.1]][3]
-[![medium itsphilipmutua][4.1]][4]
+[![medium philip.mutua][4.1]][4]
 [![stackoverflow philip-mutua][5.1]][5]
 [![dev to pmutua][6.1]][6]
 
@@ -51,19 +50,17 @@ Hi, I'm Phil — a **software engineer** building some real stuff through code. 
 
 Angular . Django . Django Rest Framework . FastAPI .
 
-Postgresql . MongoDB . Redis .
-
 Python . TypeScript . JavaScript . 
 
-& [Other tools 🧰](#other-tools)
+<!-- [more](#toolbox) -->
 
 <!-- section - skills -->
 
 <!-- section - job details -->
-
+<!--
 ## On the job .. 💯
 
-<!-- 
+ 
 > Software Engineering - [**Company X**](https://x.com)  ⭐
 
 #### Previously .. 💯
@@ -89,7 +86,7 @@ Python . TypeScript . JavaScript .
 
 👨‍💻 I _BUILD_ resilient apps & services
 
-📰 Reading & writing _TECH BLOGS_
+📰 Reading, tech videos & writing _TECH BLOGS_
 
 🍕 _HACKATHONS_ & problem solving
 
@@ -97,27 +94,13 @@ Python . TypeScript . JavaScript .
 
 <!-- section - blogs -->
 
-## Check my blogs & posts .. ✨
+## Projects .. ✨
 
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+- [🧠 AlgoAtlas](http://algoatlas.pro), a web app for daily coding interview challenges to enhance your tech skills
 
-- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
+- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation. ⚠️ **Warning:** Backend functionality to Auto generate content using OpenAI not working. OpenAI credits depleted.
 
-- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
-
-- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
-
-- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
-
-- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
-
-- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
-
-- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
-
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
-
-<!-- section - blogs -->
+<!-- section - blogs
 
 ## How To Make a Similar Home Page for your GitHub ? 😎
 
@@ -131,195 +114,11 @@ Python . TypeScript . JavaScript .
 
 Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
 
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-
-
-
-## Thank you and Namaste! 🙏
-
-Thanks for reading about me. You can connect with me on ..
-
-<!-- section - social media icons -->
-
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
-
-<!-- section - social media icons -->
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
- <p/>
-
-
-
-
-Indie dev software company
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### ✨&nbsp; About Me
-
-- 6+ years as a Fullstack Software Engineer, blending tech expertise with entrepreneurship, delivering innovation, and leading projects in dynamic software engineering. [Follow on Twitter](https://twitter.com/itsphilipmutua)&nbsp;
-- I make some [YouTubes](https://www.youtube.com/@somacode_?subscribe_submission=1)
-<br>
-
-### Other tools
+More details are on this blog link: [Building GitHub Profile using README.md]()
+ -->
+
+<!--
+### Tools
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-1e3c0f?style=flat-square&logo=django&logoColor=white" />
@@ -361,170 +160,24 @@ Indie dev software company
   <img alt="Postman" src="https://img.shields.io/badge/-PostMan-f48436?style=flat-square&logo=postman&logoColor=white" />
   <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+-->
 
-<br>
+## Thank you and Namaste! 🙏
 
-### Products
+Thanks for reading about me. You can connect with me on ..
 
-- [🧠 AlgoAtlas](http://algo-atlas-web.onrender.com/), a web app for daily coding interview challenges to enhance your tech skills
+<!-- section - social media icons -->
 
-<br>
+[![linkedin pmutua][1.1]][1]
+[![github pmutua][2.1]][2]
+[![twitter itsphilipmutua][3.1]][3]
+[![medium philip.mutua][4.1]][4]
+[![stackoverflow philip-mutua][5.1]][5]
+[![dev to pmutua][6.1]][6]
 
-### Working on
-	
-- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation.
-<br>
-<br>
-<h3>Open source projects</h3>
+<!-- section - social media icons -->
 
-<p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=pmutua&label=Profile%20views&color=0e75b6&style=flat" alt="pmutua" />
+</p>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/pmutua/sms-service"><b>SMS service</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/sms-service?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/pmutua/restaurant-voting"><b>menu voting API</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/restaurant-voting?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/pmutua/conduit"><b>conduit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/conduit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	      <tr>
-      <td><a href="https://github.com/pmutua/conduit"><b>elite schedule
-</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/elite-schedule?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	      <tr>
-      <td><a href="https://github.com/pmutua/quandlstocks
-"><b>quandlstocks
-</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/quandlstocks?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	      <tr>
-      <td><a href="https://github.com/BwanaQ/picha-flani-backend"><b>Picha Flani</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BwanaQ/picha-flani-backend?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	  	      <tr>
-      <td><a href="https://github.com/pmutua/boo"><b>Boo</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/boo?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	  	  	      <tr>
-      <td><a href="https://github.com/pmutua/bnk"><b>BNK</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/bnk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/bnk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/bnk?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/bnk?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	  	  	  	      <tr>
-      <td><a href="https://github.com/KeeganObonyo/Mpesa-Payment-App"><b>Mpesa-Payment-API</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/KeeganObonyo/Mpesa-Payment-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/KeeganObonyo/Mpesa-Payment-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/KeeganObonyo/Mpesa-Payment-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KeeganObonyo/Mpesa-Payment-App?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	      <tr>
-      <td><a href="https://github.com/pmutua/imgclassifier
-"><b>Image Classifier
-</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/imgclassifier?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	  	      <tr>
-      <td><a href="https://github.com/pmutua/drf_csv_xlsx_file_upload
-"><b>drf_csv_xlsx_file_upload
-</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/drf_csv_xlsx_file_upload?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  	      <tr>
-      <td><a href="https://github.com/pmutua/weather-api"><b>weather-api</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pmutua/weather-api?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3>Tutorial projects</h3>
-
-<p>Here are some of the tutorials I made available for anyone who is interested in learning.</p>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  	  	      <tr>
-      <td><a href="https://github.com/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework"><b>Build-a-Banking-System-API-with-DJANGO-Rest-Framework</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/somacode1/Build-a-Banking-System-API-with-DJANGO-Rest-Framework?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-### 📈 Overall GitHub Stats
-
-![Metrics](https://github-profile-trophy.vercel.app/?username=pmutua)
-
-<hr>
-
-<br>
-
-### 🔗 Connect with me
-
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:pmutua@live.com).
-
-<br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pmutua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pmutua" /></a></p><br><br>
