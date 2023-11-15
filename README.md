@@ -27,7 +27,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Phil — a **software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Phil — a **software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship e.tc.
 
 <!-- section - intro -->
 
