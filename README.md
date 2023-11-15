@@ -1,4 +1,22 @@
-![Copy of Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://user-images.githubusercontent.com/16241851/228491191-d415aded-e0c7-4f9d-b553-cf672f4c3c87.png)
+<!-- icons  -->
+
+[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+
+<!--TEMPLATE & assets CREDITS TO https://github.com/ombharatiya  I did a couple of mofifictions-->
+
+<!-- links to my social media accounts -->
+
+[1]: https://www.linkedin.com/in/itsphilipmutua
+[2]: https://www.github.com/pmutua
+[3]: https://www.twitter.com/itsphilipmutua
+[4]: http://www.medium.com/@philip.mutua
+[5]: https://stackoverflow.com/users/8454203/philip-mutua
+[6]: http://dev.to/pmutua
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=pmutua&label=Profile%20views&color=0e75b6&style=flat" alt="pmutua" />
@@ -7,13 +25,301 @@
   </a>
 </p>
 
+# ❤ to Build - Software Engineer & Enthusiast!
+
+
+Hi, I'm Phil — a **software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+
+<!-- section - intro -->
+
+<!-- section - social media icons -->
+
+[![linkedin pmutua][1.1]][1]
+[![github pmutua][2.1]][2]
+[![twitter itsphilipmutua][3.1]][3]
+[![medium itsphilipmutua][4.1]][4]
+[![stackoverflow philip-mutua][5.1]][5]
+[![dev to pmutua][6.1]][6]
+
+<!-- section - social media icons -->
+
+ ---
+
+<!-- section - skills -->
+
+## I use.. 💻
+
+Angular . Django . Django Rest Framework . FastAPI .
+
+Postgresql . MongoDB . Redis .
+
+Python . TypeScript . JavaScript . 
+
+& [Other tools 🧰](#other-tools)
+
+<!-- section - skills -->
+
+<!-- section - job details -->
+
+## On the job .. 💯
+
+<!-- 
+> Software Engineering - [**Company X**](https://x.com)  ⭐
+
+#### Previously .. 💯
+
+> Software Development Engineer - [**Company Y**](https://y.com/)  ⭐
+
+> Software Engineer - [**Company Z**](https://z.com)  ⭐
+
+> Software Engineer - [**Company V **](https://v.com)
+
+> Software Engineer - [**ISRO**](https://www.gov.in)
+
+-->
+
+<!-- section - job details -->
+
+
+<!-- section - interests -->
+
+## My Absolute Favorites .. 💖
+
+🦄 I love _CODING_
+
+👨‍💻 I _BUILD_ resilient apps & services
+
+📰 Reading & writing _TECH BLOGS_
+
+🍕 _HACKATHONS_ & problem solving
+
+<!-- section - interests -->
+
+<!-- section - blogs -->
+
+## Check my blogs & posts .. ✨
+
+- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+
+- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
+
+- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
+
+- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
+
+- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
+
+- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
+
+- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
+
+- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
+
+- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
+
+<!-- section - blogs -->
+
+## How To Make a Similar Home Page for your GitHub ? 😎
+
+1. Fork this repo.
+
+2. Edit the README.md file with your info.
+
+3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
+
+4. You made it!
+
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
+
+More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+
+
+
+
+## Thank you and Namaste! 🙏
+
+Thanks for reading about me. You can connect with me on ..
+
+<!-- section - social media icons -->
+
+[![linkedin ombharatiya][1.1]][1]
+[![github ombharatiya][2.1]][2]
+[![twitter ombharatiya][3.1]][3]
+[![medium ombharatiya][4.1]][4]
+[![stackoverflow om-bharatiya][5.1]][5]
+[![dev to ombharatiya][6.1]][6]
+
+<!-- section - social media icons -->
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+ <p/>
+
+
+
+
+Indie dev software company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### ✨&nbsp; About Me
 
 - 6+ years as a Fullstack Software Engineer, blending tech expertise with entrepreneurship, delivering innovation, and leading projects in dynamic software engineering. [Follow on Twitter](https://twitter.com/itsphilipmutua)&nbsp;
 - I make some [YouTubes](https://www.youtube.com/@somacode_?subscribe_submission=1)
 <br>
 
-👨🏾‍💻 **Things I've been coding with**
+### Other tools
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-1e3c0f?style=flat-square&logo=django&logoColor=white" />
