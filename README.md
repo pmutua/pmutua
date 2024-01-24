@@ -100,7 +100,7 @@ Python . TypeScript . JavaScript .
 
 - [🧠 AlgoAtlas](http://algoatlas.pro), a web app for daily coding interview challenges to enhance your tech skills
 
-- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation. ⚠️ **Warning:** Backend functionality to Auto generate content using OpenAI will not work. OpenAI credits depleted.
+- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation.
 - [🤖 CodeCraftGPT](https://github.com/pmutua/CodeCraftGPT), an innovative all-in-one platform harnessing the power of advanced Language Models (OpenAI). It seamlessly integrates four key components to elevate the coding experience for developers.
 
 <!-- section - blogs
@@ -120,7 +120,6 @@ Don't forget to add a Star ⭐ on this repo if you liked it & follow me for inte
 More details are on this blog link: [Building GitHub Profile using README.md]()
  -->
 
-<!--
 ### Tools
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -163,7 +162,6 @@ More details are on this blog link: [Building GitHub Profile using README.md]()
   <img alt="Postman" src="https://img.shields.io/badge/-PostMan-f48436?style=flat-square&logo=postman&logoColor=white" />
   <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
--->
 
 ## Thank you and Namaste! 🙏
 
