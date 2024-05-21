@@ -86,12 +86,6 @@ Python . TypeScript . JavaScript .
 
 👨‍💻 I _BUILD_ resilient apps & services
 
-📰 Tech Content
-
-🚀 Tech Entrepreneurship
-
-👩‍🏫 Mentoring and Teaching
-
 <!-- section - interests -->
 
 <!-- section - blogs -->
