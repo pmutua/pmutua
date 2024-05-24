@@ -46,7 +46,10 @@ Hi, I'm Philip — a **full stack developer** building some real stuff through c
 
  ---
 
+
+
 <!-- section - skills -->
+<!--
 
 ## I use.. 💻
 
@@ -54,7 +57,7 @@ Angular . Django . Django Rest Framework . FastAPI . Node.js
 
 Python . TypeScript . JavaScript . 
 
-
+-->
 
 <!-- [more](#toolbox) -->
 
@@ -122,6 +125,7 @@ Don't forget to add a Star ⭐ on this repo if you liked it & follow me for inte
 More details are on this blog link: [Building GitHub Profile using README.md]()
  -->
 
+<!--
 ### Tools
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -165,6 +169,8 @@ More details are on this blog link: [Building GitHub Profile using README.md]()
   <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 <br>
+
+-->
 
 ## Thank you and Namaste! 🙏
 
