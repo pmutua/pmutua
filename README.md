@@ -24,15 +24,15 @@
   </a>
 </p>
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# Hi there !
 
 
-Hi, I'm Phil — a **software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship e.tc.
+Hi, I'm Philip — a **full stack developer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on business solutions e.t.c
 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
-
+<!--
 [![linkedin pmutua][1.1]][1]
 [![github pmutua][2.1]][2]
 [![twitter itsphilipmutua][3.1]][3]
@@ -40,6 +40,8 @@ Hi, I'm Phil — a **software engineer** building some real stuff through code. 
 [![stackoverflow philip-mutua][5.1]][5]
 [![dev to pmutua][6.1]][6]
 
+ -->
+ 
 <!-- section - social media icons -->
 
  ---
@@ -51,6 +53,8 @@ Hi, I'm Phil — a **software engineer** building some real stuff through code. 
 Angular . Django . Django Rest Framework . FastAPI . Node.js
 
 Python . TypeScript . JavaScript . 
+
+
 
 <!-- [more](#toolbox) -->
 
@@ -80,23 +84,27 @@ Python . TypeScript . JavaScript .
 
 <!-- section - interests -->
 
+<!-- 
 ## My Absolute Favorites .. 💖
 
 🦄 I love _CODING_
 
 👨‍💻 I _BUILD_ resilient apps & services
 
+ -->
+
 <!-- section - interests -->
 
 <!-- section - blogs -->
 
+<!-- 
 ## Projects .. ✨
 
 - [🧠 AlgoAtlas](http://algoatlas.pro), a web app for daily coding interview challenges to enhance your tech skills
 
 - [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation.
 - [🤖 CodeCraftGPT](https://github.com/pmutua/CodeCraftGPT), an innovative all-in-one platform harnessing the power of advanced Language Models (OpenAI). It seamlessly integrates four key components to elevate the coding experience for developers.
-
+-->
 <!-- section - blogs
 
 ## How To Make a Similar Home Page for your GitHub ? 😎
@@ -156,6 +164,7 @@ More details are on this blog link: [Building GitHub Profile using README.md]()
   <img alt="Postman" src="https://img.shields.io/badge/-PostMan-f48436?style=flat-square&logo=postman&logoColor=white" />
   <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+<br>
 
 ## Thank you and Namaste! 🙏
 
