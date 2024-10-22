@@ -91,7 +91,7 @@ Python . TypeScript . JavaScript .
 
 🦄 I love _BUILDING THINGS_
 
-👨‍💻 I _BUILD_ resilient apps & services
+👨‍💻 I _BUILD_ resilient web apps & services
 
 
 <!-- section - interests -->
