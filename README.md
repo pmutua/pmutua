@@ -7,7 +7,7 @@
 [5.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
 [6.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
 
-<!--TEMPLATE & assets CREDITS TO https://github.com/ombharatiya  I did a couple of mofifictions-->
+<!--TEMPLATE & assets CREDITS TO https://github.com/ombharatiya  I did a couple of mofifications-->
 
 <!-- links to my social media accounts -->
 
@@ -87,14 +87,12 @@ Python . TypeScript . JavaScript .
 
 <!-- section - interests -->
 
-<!-- 
 ## My Absolute Favorites .. 💖
 
-🦄 I love _CODING_
+🦄 I love _BUILDING THINGS_
 
 👨‍💻 I _BUILD_ resilient apps & services
 
- -->
 
 <!-- section - interests -->
 
@@ -125,7 +123,6 @@ Don't forget to add a Star ⭐ on this repo if you liked it & follow me for inte
 More details are on this blog link: [Building GitHub Profile using README.md]()
  -->
 
-<!--
 ### Tools
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -170,7 +167,6 @@ More details are on this blog link: [Building GitHub Profile using README.md]()
 </p>
 <br>
 
--->
 
 ## Thank you and Namaste! 🙏
 
