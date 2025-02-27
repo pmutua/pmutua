@@ -1,189 +1,126 @@
-<!-- icons  -->
+<!-- Social Icons -->
 
-[1.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/pmutua/pmutua/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
-
-<!--TEMPLATE & assets CREDITS TO https://github.com/ombharatiya  I did a couple of mofifications-->
-
-<!-- links to my social media accounts -->
-
-[1]: https://www.linkedin.com/in/pmutua
-[2]: https://www.github.com/pmutua
-[3]: https://www.twitter.com/itsphilipmutua
-[4]: http://www.medium.com/@philip.mutua
-[5]: https://stackoverflow.com/users/8342189/philip-mutua
-[6]: http://dev.to/pmutua
+[LinkedIn]: https://www.linkedin.com/in/pmutua
+[GitHub]: https://www.github.com/pmutua
+[Twitter]: https://www.twitter.com/itsphilipmutua
+[Medium]: http://www.medium.com/@philip.mutua
+[StackOverflow]: https://stackoverflow.com/users/8342189/philip-mutua
+[DevTo]: http://dev.to/pmutua
 
 <p align="left">
   <a href="https://stackoverflow.com/users/8342189/philip-mutua">
-    <img alt="Stack Exchange reputation" src="https://stackoverflow-badge.vercel.app/?userID=8342189">
+    <img alt="Stack Overflow Reputation" src="https://stackoverflow-badge.vercel.app/?userID=8342189">
   </a>
 </p>
 
-# Hi there !
+---
+
+# Hi there 👋
+
+I'm **Philip**, a **Senior Software Engineer** driven by a passion for **building scalable, high-performance applications**.  
+I excel at **delivering solutions that solve real problems and create meaningful impact**.  
+
+My expertise lies in **full-stack web development, APIs, and cloud deployments**, ensuring that the systems I build are **efficient, scalable, and robust**.  
+With a strong foundation in **cloud infrastructure**, my primary focus is on **web development and backend systems**, architecting solutions that enhance performance and reliability.  
+
+I’m always open to discussions on **business solutions, technology, and innovation**.
+
+---
+
+## 📌 Technical Skills  
+
+### 💻 Frontend Development  
+- **Languages:** TypeScript, JavaScript, HTML, CSS, Sass  
+- **Frameworks & Libraries:** Angular, RxJS, Jinja  
+- **Styling & UI:** Tailwind CSS, Bootstrap, Material UI  
+- **Prototyping & Design:** Figma, Canva  
+
+### 🏗️ Backend Development  
+- **Languages:** TypeScript, JavaScript, Python  
+- **Frameworks:** Django, Node.js, Flask, FastAPI  
+
+### 🗄️ Databases  
+- **Relational:** PostgreSQL, MySQL, SQLite  
+- **NoSQL & Caching:** MongoDB, Redis  
+
+### ☁️ Cloud & Infrastructure  
+- **Cloud Providers:** Azure, AWS, Google Cloud Platform, Firebase  
+- **Hosting & Deployment:** Vercel, Render, Heroku, Railway  
+- **Reverse Proxy & Load Balancing:** NGINX, Cloudflare  
+
+### ⚙️ DevOps & CI/CD  
+- **Version Control & CI/CD:** Git, GitHub Actions, Azure DevOps  
+- **Containerization & Infrastructure:** Docker
+- **Message Queues:** RabbitMQ  
+
+### 🔧 Tools & Productivity  
+- **Project Management:** Jira, Notion  
+- **API Development & Testing:** Postman  
+- **AI & Automation:** OpenAI, Anthropic  
+---
+
+## 🏗️ Projects & Contributions
+
+### 💡 Personal Projects
+🌐 Web Apps
+- [📦 **Angular Boilerplate project**](https://github.com/pmutua/Boilerplate-Angular-Project) – Scalable Boilerplate Angular 17 application starter. This Angular project is a scalable, well-structured enterprise application designed for efficient handling of diverse features. It adheres to best practices, promoting modularity, reusability, and maintainability 🚀.
+- [**Quandl Stocks**](https://github.com/pmutua/quandlstocks) - An Angular application that allows a user to visualize the historical trend of end of day stock prices for publicly available companies. The application uses the Quandl API.
+- [🟩 **Matrix Rain**](https://github.com/pmutua/Matrix-Rain) - Fun project that creates an animation of raining katakana symbols similar to the Matrix movie scene. It's implemented using HTML, CSS, and JavaScript, and is customizable.
+- [🚀 **Portfolio**](https://pmutua-github-io-pmutuas-projects.vercel.app/) – My website devloped using Angular.
+
+🔌 APIs
+- [📄🔌 **Document API**](https://github.com/pmutua/document-management-api) - API developed using Fast API for managing documents
+- [⚙️📲 **Xelpayer**](https://github.com/pmutua/xelpayer) - Django (DRF) safaricom mpesa API
+- [🥗📊🔌 **Restaurant Voting API**](https://github.com/pmutua/restaurant-voting) - This repository contains a set of RESTful APIs for a restaurant management system. It includes endpoints for registering a user, creating a new employee, user login, and logout. Additionally, it provides endpoints for listing all restaurants, listing all menus of the current day, and voting for a menu.
+- [☁️🔌**Weather API**](https://github.com/pmutua/weather-api) - Weather Forecast API
+- [💬🔌 **SMS Service API**](https://github.com/pmutua/sms-service) - API has ability to send SMS to multiple 🇰🇪 Kenya phone numbers. Supported service providers include Safaricom, Airtel Kenya & Telcom Kenya.
+- [⚽🥅 **Elite Schedule**](https://github.com/pmutua/elite-schedule) - Elite Schedule is an open source football REST API providing historical results to help analyse many years of data quickly and efficiently.
+- [🖼️🔍**Image Classifier**](https://github.com/pmutua/imgclassifier) - Image Recognition Flask Restful API.
+- [🔗💰 **Conduit**](https://github.com/pmutua/conduit) -Node.js REST API integrated with third party Safaricom's Mpesa Daraja API an Application Programming Interface that creates a bridge for payment integration to web and mobile apps.
+- [🤖🔍 Django DRF API for Bulk CSV/XLSX Uploads & AI-Powered Queries with LangChain](https://github.com/pmutua/drf_csv_xlsx_file_upload) - Demo Django (Django Rest Framework) API uploads .csv/.xlsx for bulk data, queries via text for accurate results. Integrated with OpenAI using Langchain library. Watch full implementation via this [video](https://www.youtube.com/watch?v=gXYvhHocz84&t=4333s)
+- [🤖📈 **Trading Bot Demo**](https://github.com/pmutua/tradingbot) - Demo Crypto Trading Telegram Bot (python, flask, web sockets, asyncio, pandas, telegram-bot, postgreSQL, ta-lib, binance-connector-api, docker, docker-compose, requests...)
+
+📱 Mobile 
+  - [**Moovie**](https://github.com/pmutua/moovie) - A Movie search application made with flutter
+
+### 🔥 Hackathon Contributions
+- [🤖 **CodeCraftGPT**](https://github.com/pmutua/CodeCraftGPT) – AI-driven developer productivity platform. 
+
+⚠️ **Note:** Some projects are no longer actively maintained, and others are still in development. Developers may need to update dependencies, configurations, or add missing features if they plan to use or contribute. 
+
+---
+### 📌 Interesting Repositories
+- [🔌🌍 **Public APIs**](https://github.com/pmutua/public-apis) - A collective list of public JSON APIs for use in web development.
+- [🛠️⚙️ **Build Your Own X**](https://github.com/pmutua/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [🚀 **Going to production**](https://github.com/pmutua/going-to-production?tab=readme-ov-file) – A reference checklist for topics which should be covered before going to production.
+- [🦀 **Rustlings**](https://github.com/pmutua/rustlings) – Small exercises to get you used to reading and writing Rust code!
+- [📡 **Awesome Microservices**](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [🌐 **Web Developer Roadmap**](https://github.com/pmutua/developer-roadmap) - Roadmap to becoming a web developer
+- [⚗️ **Awesome Flask**](https://github.com/pmutua/awesome-flask) - A curated list of awesome Flask resources and plugins
+- [🐹 **Awesome GO**](https://github.com/pmutua/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [🐍 **Awesome Python**]https://github.com/pmutua/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [🚀 **DevOps Excercises**](https://github.com/pmutua/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [🚀👨‍💻 **Awesome CTO**](https://github.com/pmutua/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [🛤️💻 **Path to Senior Engineer Handbook**](https://github.com/pmutua/senior-engineer) - This repo has all the resources you need to reach Senior Software Engineer!
 
 
-Hi, I'm Philip — a **full stack developer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on business solutions e.t.c
+---
 
-<!-- section - intro -->
+## 📌 Interests
 
-<!-- section - social media icons -->
-<!--
-[![linkedin pmutua][1.1]][1]
-[![github pmutua][2.1]][2]
-[![twitter itsphilipmutua][3.1]][3]
-[![medium philip.mutua][4.1]][4]
-[![stackoverflow philip-mutua][5.1]][5]
-[![dev to pmutua][6.1]][6]
+🦄 **Building things that make an impact**
 
- -->
- 
-<!-- section - social media icons -->
+👨‍💻 **Developing scalable web applications & services**
 
- ---
+📢 **Tech discussions and sharing knowledge**
 
+---
 
+## 📫 Let's Connect
 
-<!-- section - skills -->
-<!--
-
-## I use.. 💻
-
-Angular . Django . Django Rest Framework . FastAPI . Node.js
-
-Python . TypeScript . JavaScript . 
-
--->
-
-<!-- [more](#toolbox) -->
-
-<!-- section - skills -->
-
-<!-- section - job details -->
-<!--
-## On the job .. 💯
-
- 
-> Software Engineering - [**Company X**](https://x.com)  ⭐
-
-#### Previously .. 💯
-
-> Software Development Engineer - [**Company Y**](https://y.com/)  ⭐
-
-> Software Engineer - [**Company Z**](https://z.com)  ⭐
-
-> Software Engineer - [**Company V **](https://v.com)
-
-> Software Engineer - [**ISRO**](https://www.gov.in)
-
--->
-
-<!-- section - job details -->
-
-
-<!-- section - interests -->
-
-## My Absolute Favorites .. 💖
-
-🦄 I love _BUILDING THINGS_
-
-👨‍💻 I _BUILD_ resilient web apps & services
-
-
-<!-- section - interests -->
-
-<!-- section - blogs -->
-
-<!-- 
-## Projects .. ✨
-
-- [🧠 AlgoAtlas](http://algoatlas.pro), a web app for daily coding interview challenges to enhance your tech skills
-
-- [✍️ Andika](https://andika.pro), an AI-powered web app for 10x faster, high-quality content creation.
-- [🤖 CodeCraftGPT](https://github.com/pmutua/CodeCraftGPT), an innovative all-in-one platform harnessing the power of advanced Language Models (OpenAI). It seamlessly integrates four key components to elevate the coding experience for developers.
--->
-<!-- section - blogs
-
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md]()
- -->
-
-### Tools
-<p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-1e3c0f?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-fdc828?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-3d85c6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6b46cb?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-3F50B5?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  
-  <img alt="nx" src="https://img.shields.io/badge/-NX-03006c?style=flat-square&logo=nx&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F6821E?style=flat-square&logo=cloudflare&logoColor=white" />
-
-  
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fdc828?style=flat-square&logo=firebase&logoColor=white" />
-
-  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-1a62a4?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="redis" src="https://img.shields.io/badge/-Redis-FF0000?style=flat-square&logo=redis&logoColor=green" />
-  <img alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-1a62a4?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FFA500?style=flat-square&logo=rabbitmq&logoColor=white" />
-  
- <img alt="celery" src="https://img.shields.io/badge/-Celery-FFFFFF?style=flat-square&logo=celery&logoColor=green" />
-  <img alt="nginx" src="https://img.shields.io/badge/-NGINX-FFFFFF?style=flat-square&logo=nginx&logoColor=green" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-043B8E?style=flat-square&logo=jira&logoColor=white" />
-  <img alt="notion" src="https://img.shields.io/badge/-notion-eeeeee?style=flat-square&logo=notion&logoColor=black" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-PostMan-f48436?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="VsCode" src="https://img.shields.io/badge/-VS%20Code-005BA4?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-<br>
-
-
-## Thank you and Namaste! 🙏
-
-Thanks for reading about me. You can connect with me on ..
-
-<!-- section - social media icons -->
-
-[![linkedin pmutua][1.1]][1]
-[![github pmutua][2.1]][2]
-[![twitter itsphilipmutua][3.1]][3]
-[![medium philip.mutua][4.1]][4]
-[![stackoverflow philip-mutua][5.1]][5]
-[![dev to pmutua][6.1]][6]
-
-<!-- section - social media icons -->
-
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=pmutua&label=Profile%20views&color=0e75b6&style=flat" alt="pmutua" />
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)][LinkedIn]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)][GitHub]
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/itsphilipmutua)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)][Medium]
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)][StackOverflow]
+[![DevTo](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)][DevTo]
