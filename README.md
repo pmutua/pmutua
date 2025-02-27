@@ -67,6 +67,7 @@ I’m always open to discussions on **business solutions, technology, and innova
 - [**Quandl Stocks**](https://github.com/pmutua/quandlstocks) - An Angular application that allows a user to visualize the historical trend of end of day stock prices for publicly available companies. The application uses the Quandl API.
 - [🟩 **Matrix Rain**](https://github.com/pmutua/Matrix-Rain) - Fun project that creates an animation of raining katakana symbols similar to the Matrix movie scene. It's implemented using HTML, CSS, and JavaScript, and is customizable.
 - [🚀 **Portfolio**](https://pmutua-github-io-pmutuas-projects.vercel.app/) – My website devloped using Angular.
+- [🌐💻 **API Developer Portal Demo UI**](https://app-4pf.pages.dev/fr/) - The API SaaS Application Developer Portal is a centralized hub designed for developers to explore, integrate, and manage API services seamlessly. It provides a user-friendly interface, detailed API documentation, authentication mechanisms, and analytics to enhance the developer experience. To Login use the following [users](https://gist.github.com/pmutua/8f08e4a824bba0c4aadda6044dd48cdf)
 
 🔌 APIs
 - [📄🔌 **Document API**](https://github.com/pmutua/document-management-api) - API developed using Fast API for managing documents
