@@ -98,9 +98,11 @@ I’m always open to discussions on **business solutions, technology, and innova
 - [🦀 **Rustlings**](https://github.com/pmutua/rustlings) – Small exercises to get you used to reading and writing Rust code!
 - [📡 **Awesome Microservices**](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [🌐 **Web Developer Roadmap**](https://github.com/pmutua/developer-roadmap) - Roadmap to becoming a web developer
+- [🅰️ **Awesome Angular**](https://github.com/PatrickJS/awesome-angular) - 📄 A curated list of awesome Angular resources 
 - [⚗️ **Awesome Flask**](https://github.com/pmutua/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [🐹 **Awesome GO**](https://github.com/pmutua/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [🐍 **Awesome Python**](https://github.com/pmutua/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [⚡🤖 **Awesome LLM**](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Mode
 - [🚀 **DevOps Excercises**](https://github.com/pmutua/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [🚀👨‍💻 **Awesome CTO**](https://github.com/pmutua/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [🛤️💻 **Path to Senior Engineer Handbook**](https://github.com/pmutua/senior-engineer) - This repo has all the resources you need to reach Senior Software Engineer!
