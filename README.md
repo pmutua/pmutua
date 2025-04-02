@@ -17,7 +17,7 @@
 
 # Hi there 👋
 
-I'm **Philip**, a **Software Engineer** passionate about building **scalable, high-performance applications** that make a real impact.
+I'm **Philip**, a **Senior Software Developer** passionate about building **scalable, high-performance applications** that make a real impact.
 
 With expertise in **full-stack development, APIs, and cloud deployments**, I create **efficient, scalable, and robust systems**. My focus is on **web development and backend solutions**, ensuring top-notch performance and reliability.
 
