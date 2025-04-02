@@ -17,15 +17,16 @@
 
 # Hi there 👋
 
-I'm **Philip**, a **Senior Software Engineer** driven by a passion for **building scalable, high-performance applications**.  
-I excel at **delivering solutions that solve real problems and create meaningful impact**.  
+I'm **Philip**, a **Software Engineer** passionate about building **scalable, high-performance applications** that make a real impact.
 
-My expertise lies in **full-stack web development, APIs, and cloud deployments**, ensuring that the systems I build are **efficient, scalable, and robust**.  
-With a strong foundation in **cloud infrastructure**, my primary focus is on **web development and backend systems**, architecting solutions that enhance performance and reliability.  
+With expertise in **full-stack development, APIs, and cloud deployments**, I create **efficient, scalable, and robust systems**. My focus is on **web development and backend solutions**, ensuring top-notch performance and reliability.
 
-I’m always open to discussions on **business solutions, technology, and innovation**.
+Let's connect and explore **business solutions, technology, and innovation**.
+
 
 ---
+
+<!-- Social Icons 
 
 ## 📌 Technical Skills  
 
@@ -90,6 +91,7 @@ I’m always open to discussions on **business solutions, technology, and innova
 
 ⚠️ **Note:** Some projects are no longer actively maintained, and others are still in development. Developers may need to update dependencies, configurations, or add missing features if they plan to use or contribute. 
 
+-->
 ---
 ### 📌 Interesting Repositories
 - [🔌🌍 **Public APIs**](https://github.com/pmutua/public-apis) - A collective list of public JSON APIs for use in web development.
