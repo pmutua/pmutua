@@ -91,8 +91,9 @@ Let's connect and explore **business solutions, technology, and innovation**.
 
 ⚠️ **Note:** Some projects are no longer actively maintained, and others are still in development. Developers may need to update dependencies, configurations, or add missing features if they plan to use or contribute. 
 
--->
 ---
+-->
+
 ### 📌 Interesting Repositories
 - [🔌🌍 **Public APIs**](https://github.com/pmutua/public-apis) - A collective list of public JSON APIs for use in web development.
 - [🛠️⚙️ **Build Your Own X**](https://github.com/pmutua/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
