@@ -96,6 +96,7 @@ Let's connect and explore **business solutions, technology, and innovation**.
 
 ### 📌 Interesting Repositories
 - [📔 📚 **Awesome Next.js**](https://github.com/unicodeveloper/awesome-nextjs) - A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
+- [🤖**Awesome MCP servers**](https://github.com/punkpeye/awesome-mcp-servers) - This repository contains a collection of MCP (Model Context Protocol) servers.
 - [🔌🌍 **Public APIs**](https://github.com/pmutua/public-apis) - A collective list of public JSON APIs for use in web development.
 - [🛠️⚙️ **Build Your Own X**](https://github.com/pmutua/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [🚀 **Going to production**](https://github.com/pmutua/going-to-production?tab=readme-ov-file) – A reference checklist for topics which should be covered before going to production.
