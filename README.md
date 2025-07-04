@@ -24,8 +24,6 @@ With expertise in **full-stack development, APIs, and cloud deployments**, I cre
 Let's connect and explore **business solutions, technology, and innovation**.
 
 
----
-
 <!-- Social Icons 
 
 ## 📌 Technical Skills  
@@ -60,16 +58,17 @@ Let's connect and explore **business solutions, technology, and innovation**.
 - **AI & Automation:** OpenAI, Anthropic  
 ---
 
+-->
+
+<!--
 ## 🏗️ Projects & Contributions
 
 ### 💡 Personal Projects
 🌐 Web Apps
 - [📦 **Angular Boilerplate project**](https://github.com/pmutua/Boilerplate-Angular-Project) – Scalable Boilerplate Angular 17 application starter. This Angular project is a scalable, well-structured enterprise application designed for efficient handling of diverse features. It adheres to best practices, promoting modularity, reusability, and maintainability 🚀.
-- [**Quandl Stocks**](https://github.com/pmutua/quandlstocks) - An Angular application that allows a user to visualize the historical trend of end of day stock prices for publicly available companies. The application uses the Quandl API.
-- [🟩 **Matrix Rain**](https://github.com/pmutua/Matrix-Rain) - Fun project that creates an animation of raining katakana symbols similar to the Matrix movie scene. It's implemented using HTML, CSS, and JavaScript, and is customizable.
-- [🚀 **Portfolio**](https://pmutua-github-io-pmutuas-projects.vercel.app/) – My website devloped using Angular.
-- [🌐💻 **API Developer Portal Demo UI**](https://app-4pf.pages.dev/fr/) - The **API SaaS Application Developer Portal** is a centralized hub designed for developers to seamlessly explore, integrate, and manage API services. It offers a user-friendly interface, comprehensive API documentation, authentication mechanisms, and analytics to enhance the developer experience.  🔑 **To log in, use the following [test users](https://gist.github.com/pmutua/8f08e4a824bba0c4aadda6044dd48cdf).** 📂 **[GitHub Repository](https://github.com/Eb-Developer-Playground/api-saas-application)**
-
+- [🚀 **Philip Mutua**](https://pmutua-github-io-pmutuas-projects.vercel.app/) – My website devloped using Angular.
+-->
+<!--
 
 🔌 APIs
 - [📄🔌 **Document API**](https://github.com/pmutua/document-management-api) - API developed using Fast API for managing documents
@@ -91,9 +90,10 @@ Let's connect and explore **business solutions, technology, and innovation**.
 
 ⚠️ **Note:** Some projects are no longer actively maintained, and others are still in development. Developers may need to update dependencies, configurations, or add missing features if they plan to use or contribute. 
 
----
+
 -->
 
+<!-- 
 ### 📌 Interesting Repositories
 - [📔 📚 **Awesome Next.js**](https://github.com/unicodeveloper/awesome-nextjs) - A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [🤖**Awesome MCP servers**](https://github.com/punkpeye/awesome-mcp-servers) - This repository contains a collection of MCP (Model Context Protocol) servers.
@@ -112,6 +112,7 @@ Let's connect and explore **business solutions, technology, and innovation**.
 - [🚀👨‍💻 **Awesome CTO**](https://github.com/pmutua/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [🛤️💻 **Path to Senior Engineer Handbook**](https://github.com/pmutua/senior-engineer) - This repo has all the resources you need to reach Senior Software Engineer!
 
+-->
 
 ---
 
