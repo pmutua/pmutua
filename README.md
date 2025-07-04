@@ -17,11 +17,13 @@
 
 # Hi there 👋
 
-I'm **Philip**, a **Senior Software Developer** passionate about building **scalable, high-performance applications** that make a real impact.
+Hi, I’m **Philip** — a **Senior Software Developer** driven by the mission to build **scalable, high-performance applications** that create real-world impact.
 
-With expertise in **full-stack development, APIs, and cloud deployments**, I create **efficient, scalable, and robust systems**. My focus is on **web development and backend solutions**, ensuring top-notch performance and reliability.
+I specialize in **full-stack development**, **API design**, and **cloud-based deployments**, with a strong focus on **web and backend engineering**. My work is centered around crafting **robust, efficient systems** that prioritize reliability, speed, and scalability.
 
-Let's connect and explore **business solutions, technology, and innovation**.
+I'm always open to connecting around **technology, innovation, and building meaningful business solutions**.
+
+<p style="font-size: 0.9em;">I also write <a href="https://medium.com/@philip.mutua" target="_blank">Blogs</a>, where I share insights on <em>software engineering, problem solving, real-world tech applications, and other technology-related topics</em>.</p>
 
 
 <!-- Social Icons 
@@ -132,5 +134,9 @@ Let's connect and explore **business solutions, technology, and innovation**.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)][GitHub]
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/itsphilipmutua)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)][Medium]
+
+<!-- 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)][StackOverflow]
 [![DevTo](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)][DevTo]
+
+-->
