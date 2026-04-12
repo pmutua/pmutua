@@ -120,11 +120,11 @@ I'm always open to connecting around **technology, innovation, and building mean
 
 ## 📌 Interests
 
-🦄 **Building things that make an impact**
+- 🤖 **Building AI-powered solutions**
 
-👨‍💻 **Developing scalable web applications & services**
+- 👨‍💻 **Developing scalable web applications & services**
 
-📢 **Tech discussions and sharing knowledge**
+-  📢 **Tech discussions and sharing knowledge**
 
 ---
 
